@@ -3,11 +3,7 @@
     "title": "test thrat"
   },
   "detail": {
-    "contributors": [
-      {
-        "name": "taiki"
-      }
-    ],
+    "contributors": [],
     "diagrams": [
       {
         "title": "taiki",
