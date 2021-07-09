@@ -3,7 +3,17 @@
     "title": "test thrat"
   },
   "detail": {
-    "contributors": [],
-    "diagrams": []
+    "contributors": [
+      {
+        "name": "taiki"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "taiki",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
   }
 }
